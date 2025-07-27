@@ -21,15 +21,16 @@ The project uses a **Flask (Python)** backend for routing and data handling, and
 
 
 ## Project Structure
+```plaintext
 News-Aggregator/
-├── app.py # Main Flask application
-├── templates/
-│ └── index.html # Frontend HTML template
-├── static/
-│ └── css/
-│ └── style.css # Styling for the app
-├── screenshots/ # Screenshots of the project
-└── README.md # Project documentation
+ ├── app.py               # Main Flask application
+ ├── templates/
+ │     └── index.html     # Frontend HTML template
+ ├── static/
+ │     └── css/
+ │           └── style.css # Styling for the app
+ ├── screenshots/         # Screenshots of the project
+ └── README.md            # Project documentation
 
 
 ## Setup & Run
